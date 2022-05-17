@@ -9,4 +9,4 @@ Ver vidio
     maximize browser window
     wait until element is visible  (//a[@id="thumbnail"])[2]
     click element  (//a[@id="thumbnail"])[2]
-    sleep 200s    
+    sleep  2000s    
