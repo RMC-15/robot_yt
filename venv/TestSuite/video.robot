@@ -10,4 +10,4 @@ Ver vidio
     wait until element is visible  (//a[@id="thumbnail"])[2]
     click element  (//a[@id="thumbnail"])[2]
     sleep  2000s
-    close browser
+    suite Teardown close browsers
